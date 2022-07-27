@@ -1,0 +1,13 @@
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\bin\Debug\netstandard2.0\CursoOnline.Dados.deps.json
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\bin\Debug\netstandard2.0\CursoOnline.Dados.dll
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\bin\Debug\netstandard2.0\CursoOnline.Dados.pdb
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\bin\Debug\netstandard2.0\CursoOnline.Dominio.dll
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\bin\Debug\netstandard2.0\CursoOnline.Dominio.pdb
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\obj\Debug\netstandard2.0\CursoOnline.Dados.csproj.AssemblyReference.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\obj\Debug\netstandard2.0\CursoOnline.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\obj\Debug\netstandard2.0\CursoOnline.Dados.AssemblyInfoInputs.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\obj\Debug\netstandard2.0\CursoOnline.Dados.AssemblyInfo.cs
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\obj\Debug\netstandard2.0\CursoOnline.Dados.csproj.CoreCompileInputs.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\obj\Debug\netstandard2.0\CursoOnline.Dados.csproj.CopyComplete
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\obj\Debug\netstandard2.0\CursoOnline.Dados.dll
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dados\obj\Debug\netstandard2.0\CursoOnline.Dados.pdb

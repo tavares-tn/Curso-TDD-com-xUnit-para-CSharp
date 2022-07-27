@@ -1,0 +1,12 @@
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.csproj.AssemblyReference.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.AssemblyInfoInputs.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.AssemblyInfo.cs
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.csproj.CoreCompileInputs.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.RazorAssemblyInfo.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.RazorAssemblyInfo.cs
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.TagHelpers.input.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.TagHelpers.output.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.RazorCoreGenerate.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.dll
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Web\obj\Debug\netcoreapp2.1\CursoOnline.Web.pdb

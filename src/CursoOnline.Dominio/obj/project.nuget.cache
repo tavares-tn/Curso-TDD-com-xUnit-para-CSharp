@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0BkUwsy1PUPk8clgm6KGKz15hLPsz/bbPQTXF8nc7ypsq/mQppburf/IzcDP60IFTumbZ480iFCdwFHpK2hX5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thalestavares_frwk\\Downloads\\CursoOnline-master\\CursoOnline-master\\src\\CursoOnline.Dominio\\CursoOnline.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thalestavares_frwk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thalestavares_frwk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

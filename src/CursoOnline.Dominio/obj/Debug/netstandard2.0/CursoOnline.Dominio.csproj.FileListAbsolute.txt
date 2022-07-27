@@ -1,0 +1,10 @@
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\bin\Debug\netstandard2.0\CursoOnline.Dominio.deps.json
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\bin\Debug\netstandard2.0\CursoOnline.Dominio.dll
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\bin\Debug\netstandard2.0\CursoOnline.Dominio.pdb
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.csproj.AssemblyReference.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.AssemblyInfoInputs.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.AssemblyInfo.cs
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.dll
+C:\Users\thalestavares_frwk\Downloads\CursoOnline-master\CursoOnline-master\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.pdb
